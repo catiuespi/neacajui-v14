@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: catiuespi/neacajui-v10
+  repo: catiuespi/neacajui-v14
   branch: master 
 
 media_folder: "static/images/uploads"
